@@ -1,0 +1,27 @@
+,final_text,grp,lvl2_grp,lower,comb,count_occ
+0,"Spesial,Promo,idul Adha",-1,0,"spesial,promo,idul adha","spesial,promo,idul adha+alfamart+hari saja ,16-20jl2021",1
+1,Alfamart,-1,1,alfamart,"spesial,promo,idul adha+alfamart+hari saja ,16-20jl2021",1
+2,"Hari Saja ,16-20Jl2021",-1,2,"hari saja ,16-20jl2021","spesial,promo,idul adha+alfamart+hari saja ,16-20jl2021",1
+3,"SEDAAP,Mie Goreng 90g",0,19,"sedaap,mie goreng 90g","sedaap,mie goreng 90g+sedagp+edaar+goreng+shopeepay,rp6.200/3pcs+rp8.100/3pcs,7.200/3pcs",1
+4,Sedagp,0,21,sedagp,"sedaap,mie goreng 90g+sedagp+edaar+goreng+shopeepay,rp6.200/3pcs+rp8.100/3pcs,7.200/3pcs",1
+5,edaar,0,24,edaar,"sedaap,mie goreng 90g+sedagp+edaar+goreng+shopeepay,rp6.200/3pcs+rp8.100/3pcs,7.200/3pcs",1
+6,"ShopeePay,RP6.200/3pcs",0,27,"shopeepay,rp6.200/3pcs","sedaap,mie goreng 90g+sedagp+edaar+goreng+shopeepay,rp6.200/3pcs+rp8.100/3pcs,7.200/3pcs",1
+7,"Rp8.100/3pcs,7.200/3pcs",0,28,"rp8.100/3pcs,7.200/3pcs","sedaap,mie goreng 90g+sedagp+edaar+goreng+shopeepay,rp6.200/3pcs+rp8.100/3pcs,7.200/3pcs",1
+8,"SEDAAP,Mie Salero Padang 86g ,Korean Spicy Ckn 87g,Grg Ayam Crispy 88g",1,20,"sedaap,mie salero padang 86g ,korean spicy ckn 87g,grg ayam crispy 88g","sedaap,mie salero padang 86g ,korean spicy ckn 87g,grg ayam crispy 88g+13.500,rp11.500/5pcs",1
+9,"13.500,RP11.500/5pcs",1,29,"13.500,rp11.500/5pcs","sedaap,mie salero padang 86g ,korean spicy ckn 87g,grg ayam crispy 88g+13.500,rp11.500/5pcs",1
+10,"SUNCO,Minyak Goreng,Pouch2L",2,18,"sunco,minyak goreng,pouch2l","sunco,minyak goreng,pouch2l+rp32.800,27.500,kalimantan&,sulawesirp28.200,batamrp25.900+sunco+cashback,koin shopee,rp1.000",1
+11,"Rp32.800,27.500,Kalimantan&,SulawesiRp28.200,BatamRp25.900",2,22,"rp32.800,27.500,kalimantan&,sulawesirp28.200,batamrp25.900","sunco,minyak goreng,pouch2l+rp32.800,27.500,kalimantan&,sulawesirp28.200,batamrp25.900+sunco+cashback,koin shopee,rp1.000",1
+12,"CASHBACK,Koin Shopee,RP1.000",2,25,"cashback,koin shopee,rp1.000","sunco,minyak goreng,pouch2l+rp32.800,27.500,kalimantan&,sulawesirp28.200,batamrp25.900+sunco+cashback,koin shopee,rp1.000",1
+13,"SANIA,Beras Premium 5kg",3,4,"sania,beras premium 5kg","sania,beras premium 5kg+pakai bni/bri/bsi,rp51.900,luarjawa &bali,rp52.900+beraspremium+rp64.000+56.900,luarjawa&,balirp57.900",1
+14,"Pakai BNI/BRI/BSI,RP51.900,LuarJawa &Bali,Rp52.900",3,10,"pakai bni/bri/bsi,rp51.900,luarjawa &bali,rp52.900","sania,beras premium 5kg+pakai bni/bri/bsi,rp51.900,luarjawa &bali,rp52.900+beraspremium+rp64.000+56.900,luarjawa&,balirp57.900",1
+15,BERASPREMIUM,3,12,beraspremium,"sania,beras premium 5kg+pakai bni/bri/bsi,rp51.900,luarjawa &bali,rp52.900+beraspremium+rp64.000+56.900,luarjawa&,balirp57.900",1
+16,Rp64.000,3,15,rp64.000,"sania,beras premium 5kg+pakai bni/bri/bsi,rp51.900,luarjawa &bali,rp52.900+beraspremium+rp64.000+56.900,luarjawa&,balirp57.900",1
+17,"56.900,LuarJawa&,BaliRp57.900",3,16,"56.900,luarjawa&,balirp57.900","sania,beras premium 5kg+pakai bni/bri/bsi,rp51.900,luarjawa &bali,rp52.900+beraspremium+rp64.000+56.900,luarjawa&,balirp57.900",1
+18,ALFAMART,4,3,alfamart,"alfamart+beras setra pulen 5kg+rp64.000,57.500,jambi,medan,pekanbaru,batam ,banjarmasin&,pontianak rp55.000+ahamart+eras+100%+mumrice+pakai bni/bri/bsi,rp52.500,jambimedan ,pekanbaru batam,baniarmasin&,pontianak rp50.000+5kgom",1
+19,Beras Setra Pulen 5kg,4,5,beras setra pulen 5kg,"alfamart+beras setra pulen 5kg+rp64.000,57.500,jambi,medan,pekanbaru,batam ,banjarmasin&,pontianak rp55.000+ahamart+eras+100%+mumrice+pakai bni/bri/bsi,rp52.500,jambimedan ,pekanbaru batam,baniarmasin&,pontianak rp50.000+5kgom",1
+20,"Rp64.000,57.500,Jambi,Medan,Pekanbaru,Batam ,Banjarmasin&,Pontianak Rp55.000",4,6,"rp64.000,57.500,jambi,medan,pekanbaru,batam ,banjarmasin&,pontianak rp55.000","alfamart+beras setra pulen 5kg+rp64.000,57.500,jambi,medan,pekanbaru,batam ,banjarmasin&,pontianak rp55.000+ahamart+eras+100%+mumrice+pakai bni/bri/bsi,rp52.500,jambimedan ,pekanbaru batam,baniarmasin&,pontianak rp50.000+5kgom",1
+21,AHamart,4,7,ahamart,"alfamart+beras setra pulen 5kg+rp64.000,57.500,jambi,medan,pekanbaru,batam ,banjarmasin&,pontianak rp55.000+ahamart+eras+100%+mumrice+pakai bni/bri/bsi,rp52.500,jambimedan ,pekanbaru batam,baniarmasin&,pontianak rp50.000+5kgom",1
+22,100%,4,11,100%,"alfamart+beras setra pulen 5kg+rp64.000,57.500,jambi,medan,pekanbaru,batam ,banjarmasin&,pontianak rp55.000+ahamart+eras+100%+mumrice+pakai bni/bri/bsi,rp52.500,jambimedan ,pekanbaru batam,baniarmasin&,pontianak rp50.000+5kgom",1
+23,mumRice,4,13,mumrice,"alfamart+beras setra pulen 5kg+rp64.000,57.500,jambi,medan,pekanbaru,batam ,banjarmasin&,pontianak rp55.000+ahamart+eras+100%+mumrice+pakai bni/bri/bsi,rp52.500,jambimedan ,pekanbaru batam,baniarmasin&,pontianak rp50.000+5kgom",1
+24,"Pakai BNI/BRI/BSI,RP52.500,JambiMedan ,Pekanbaru Batam,Baniarmasin&,Pontianak Rp50.000",4,14,"pakai bni/bri/bsi,rp52.500,jambimedan ,pekanbaru batam,baniarmasin&,pontianak rp50.000","alfamart+beras setra pulen 5kg+rp64.000,57.500,jambi,medan,pekanbaru,batam ,banjarmasin&,pontianak rp55.000+ahamart+eras+100%+mumrice+pakai bni/bri/bsi,rp52.500,jambimedan ,pekanbaru batam,baniarmasin&,pontianak rp50.000+5kgom",1
+25,5kgom,4,17,5kgom,"alfamart+beras setra pulen 5kg+rp64.000,57.500,jambi,medan,pekanbaru,batam ,banjarmasin&,pontianak rp55.000+ahamart+eras+100%+mumrice+pakai bni/bri/bsi,rp52.500,jambimedan ,pekanbaru batam,baniarmasin&,pontianak rp50.000+5kgom",1
